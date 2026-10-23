@@ -1,0 +1,10 @@
+denial_code,denial_description,denial_category,preventable
+CO-4,Procedure code inconsistent with modifier,Coding,1
+CO-16,Claim lacks information / billing error,Billing,1
+CO-18,Duplicate claim,Billing,1
+CO-27,Coverage terminated before service,Eligibility,1
+CO-29,Timely filing limit expired,Timely Filing,1
+CO-50,Not medically necessary,Medical Necessity,0
+CO-97,Bundled / included in another service,Coding,1
+CO-197,Prior authorization absent,Authorization,1
+PR-1,Deductible amount (patient responsibility),Patient Responsibility,0

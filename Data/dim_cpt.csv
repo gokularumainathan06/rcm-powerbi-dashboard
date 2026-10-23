@@ -1,0 +1,13 @@
+cpt_code,cpt_category,base_charge
+99213,E/M,130
+99214,E/M,190
+93000,Cardio,95
+93306,Cardio,450
+73721,Imaging,900
+72148,Imaging,1200
+27447,Surgery,14500
+29881,Surgery,6800
+45378,Procedure,1800
+96413,Chemo,2400
+99285,ED,1100
+99391,Preventive,210

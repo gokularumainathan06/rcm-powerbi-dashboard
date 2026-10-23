@@ -1,0 +1,9 @@
+payer_id,payer_name,payer_type,avg_days_to_pay
+1,Medicare,Government,28
+2,Medicaid,Government,42
+3,Aetna,Commercial,30
+4,UnitedHealthcare,Commercial,35
+5,Cigna,Commercial,33
+6,Blue Cross Blue Shield,Commercial,27
+7,Humana,Medicare Advantage,36
+8,Self-Pay,Self-Pay,60
