@@ -114,4 +114,4 @@ Power BI Desktop · Power Query · DAX · Data modelling (star schema) · Python
 
 ## Author
 
-**Gokul Selvam K A** · Coimbatore · www.linkedin.com/in/gokul-selvam07 · [GitHub](#)
+**Gokul Selvam K A** · Coimbatore · [www.linkedin.com/in/gokul-selvam07] · [GitHub](#)
