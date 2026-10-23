@@ -9,12 +9,8 @@ An interactive Power BI report that shows where a multi-specialty provider group
 ## Dashboard preview
 
 | Executive Summary | Denial Analysis |
-|---|---|
-| ![Executive Summary](screenshots/01_executive_summary.png) | ![Denial Analysis](screenshots/02_denial_analysis.png) |
 
 | AR Aging | Insights & Recommendations |
-|---|---|
-| ![AR Aging](screenshots/03_ar_aging.png) | ![Insights](screenshots/05_insights.png) |
 
 A hidden **Claim Detail** page supports drill-through from the payer, denial category and aging charts down to individual claims.
 
